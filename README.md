@@ -18,7 +18,7 @@ A FastAPI-based backend API for e-commerce administration that provides detailed
 
 ## Technical Stack
 
-- Python 3.8+
+- Python 3.13
 - FastAPI
 - SQLAlchemy
 - SQL Server
